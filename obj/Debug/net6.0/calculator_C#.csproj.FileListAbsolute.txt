@@ -1,0 +1,15 @@
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\bin\Debug\net6.0\calculator_C#.exe
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\bin\Debug\net6.0\calculator_C#.deps.json
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\bin\Debug\net6.0\calculator_C#.runtimeconfig.json
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\bin\Debug\net6.0\calculator_C#.dll
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\bin\Debug\net6.0\calculator_C#.pdb
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\calculator_C#.csproj.AssemblyReference.cache
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\calculator_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\calculator_C#.AssemblyInfoInputs.cache
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\calculator_C#.AssemblyInfo.cs
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\calculator_C#.csproj.CoreCompileInputs.cache
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\calculator_C#.dll
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\refint\calculator_C#.dll
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\calculator_C#.pdb
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\calculator_C#.genruntimeconfig.cache
+C:\Balta.io\Fundamentos_do_C#\calculator_C#\obj\Debug\net6.0\ref\calculator_C#.dll
